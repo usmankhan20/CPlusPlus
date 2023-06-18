@@ -1,0 +1,1 @@
+void PrintMultipleTable(int num);
